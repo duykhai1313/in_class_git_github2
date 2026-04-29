@@ -1,4 +1,2 @@
 This is sample file
 This is 2nd line
-
-Don't want to commit
